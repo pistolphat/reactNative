@@ -1,5 +1,11 @@
 # Teach Your Self - React Native
 
+## Using Fetch
+![](ss/Fetch.png)
+
+## Creating Section List
+![](ss/Lists.png)
+
 ### Why did you choose this subject?
 
 * I've chosen to teach myself React Native. It is a term I have heard tossed around while researching React materials and guides during the Unit 3. I've decided to learn more about React, perhaps aspect of React.
